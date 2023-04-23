@@ -1,0 +1,17 @@
+{
+    "name": "xpdeal/pix-inter",
+    "description": "Banco Inter Php package",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Xpdeal\\PixInter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jordan",
+            "email": "jordan@xpdeal.com"
+        }
+    ],
+    "require": {}
+}
